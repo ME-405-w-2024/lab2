@@ -1,0 +1,11 @@
+{
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none"
+    },
+    "python.defaultInterpreterPath": "../../PythonVenv/python311tkinter",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "doxygen_runner.configuration_file_override": "${workspaceFolder}/Doxyfile",
+}
